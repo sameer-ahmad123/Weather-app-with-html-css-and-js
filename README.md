@@ -1,0 +1,2 @@
+This is a weather app that i build with html css and js.we can get the most recent data of weather by searching the name of city in input.
+it will give the current temprature ,humidity and data related to wind.<img width="800" height="427" alt="WeatherDashboard-GoogleChrome2026-06-1618-08-52-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/f784ee0e-c256-43ec-aca2-99955104914b" />
